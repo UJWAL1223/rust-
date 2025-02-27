@@ -1,0 +1,11 @@
+/home/teets/Documents/test/rust-/thebook/guessingGame/target/debug/deps/libppv_lite86-2aa930b8489af44e.rmeta: /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/teets/Documents/test/rust-/thebook/guessingGame/target/debug/deps/libppv_lite86-2aa930b8489af44e.rlib: /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/teets/Documents/test/rust-/thebook/guessingGame/target/debug/deps/ppv_lite86-2aa930b8489af44e.d: /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs:
+/home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs:
+/home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs:
+/home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs:
+/home/teets/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs:
